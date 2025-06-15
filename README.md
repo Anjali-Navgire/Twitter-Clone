@@ -48,20 +48,18 @@ Through this project, I:
 - 🛠️ Worked with **Node.js** to serve my frontend content
 
 ---
+##📌 Disclaimer
 
-## 🖼️ Preview
+- This project is built purely for educational purposes and is not affiliated with Twitter in any way.
 
-> *(Add a screenshot or GIF demo here for visual appeal)*
+##🙌 Thank You!
 
----
+- Thanks for checking out my project. Don’t forget to ⭐ star the repo if you found it cool or helpful!
 
 ## ⚙️ Getting Started
 
 Clone the project and run it locally:
 
 ```bash
-git clone https://github.com/your-username/twitter-clone.git
-cd twitter-clone
-npm install
-node index.js
+git clone https://github.com/Anjali-Navgire/Twitter-Clone.git
 
