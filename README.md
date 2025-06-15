@@ -48,11 +48,11 @@ Through this project, I:
 - 🛠️ Worked with **Node.js** to serve my frontend content
 
 ---
-##📌 Disclaimer
+📌 Disclaimer
 
 - This project is built purely for educational purposes and is not affiliated with Twitter in any way.
 
-##🙌 Thank You!
+🙌 Thank You!
 
 - Thanks for checking out my project. Don’t forget to ⭐ star the repo if you found it cool or helpful!
 
